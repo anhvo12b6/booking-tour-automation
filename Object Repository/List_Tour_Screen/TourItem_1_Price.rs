@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TourItem_1_Price</name>
+   <tag></tag>
+   <elementGuidId>732d1e6c-3e6c-440e-8841-6a325c544b6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'trend-content')]//h3[@class='mb-0' and contains(text(), 'VNĐ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/section[2]/div/div/div[1]/div[2]/div[1]/div/div[2]/div/h3[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/section[2]/div/div/div[1]/div[2]/div[1]/div/div[2]/div/h3[2]</value>
+      <webElementGuid>efa6687e-c336-4076-8ebd-256fb7cc3c56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[contains(@class, 'trend-content')]//h3[@class='mb-0' and contains(text(), 'VNĐ')]</value>
+      <webElementGuid>9d2eaa70-40fb-4ef0-9ff0-b6024d6cc198</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

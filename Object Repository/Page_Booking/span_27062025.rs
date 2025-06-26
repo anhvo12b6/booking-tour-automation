@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_27062025</name>
+   <tag></tag>
+   <elementGuidId>4750cb6a-3733-42da-a8eb-6c2d75d070ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.bg-light.text-dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Khởi hành:'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;27/06/2025&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ad5544e-1de8-4eb5-ba7e-807fb71e2ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge bg-light text-dark</value>
+      <webElementGuid>e8d5edf0-fe9e-4f8a-b3d9-aee6a622dc39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>27/06/2025</value>
+      <webElementGuid>5ee3624c-00db-4ea5-896b-4de1169c0ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[@class=&quot;container my-5&quot;]/div[@class=&quot;row g-4&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;card shadow-lg border-0 rounded-4 h-100&quot;]/div[@class=&quot;card-body&quot;]/ul[@class=&quot;list-unstyled mb-3&quot;]/li[@class=&quot;mb-2&quot;]/span[@class=&quot;badge bg-light text-dark&quot;]</value>
+      <webElementGuid>457cd655-b3b4-4527-9ccd-c8a9f885a509</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khởi hành:'])[1]/following::span[1]</value>
+      <webElementGuid>a8c7d2c1-643b-4714-b10d-c585ff061df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phú Yên - Quy Nhơn - Eo Gió - Kỳ Co (Khách sạn 4 sao)'])[1]/following::span[1]</value>
+      <webElementGuid>d2c17664-4f65-4bbb-8d04-45a0ba9172f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thời gian:'])[1]/preceding::span[1]</value>
+      <webElementGuid>7a3c8aee-9a4e-4e44-95c2-168b410aaaea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Độ tuổi tối thiểu:'])[1]/preceding::span[2]</value>
+      <webElementGuid>353ee761-9e2e-4c23-85d6-22d3f72d4973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='27/06/2025']/parent::*</value>
+      <webElementGuid>1dea5491-339f-4203-b0dd-631ba64ab6d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>05063464-950c-4c18-8155-1f8f355292a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '27/06/2025' or . = '27/06/2025')]</value>
+      <webElementGuid>06711294-78f5-4541-abd1-5f348f7742af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

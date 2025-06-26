@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TourItem_1_Category</name>
+   <tag></tag>
+   <elementGuidId>c63c0529-7e87-4e6a-8ac9-d1321d8b9295</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'trend-content')]//h6[contains(@class, 'theme')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/section[2]/div/div/div[1]/div[2]/div[1]/div/div[2]/div/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/section[2]/div/div/div[1]/div[2]/div[1]/div/div[2]/div/h6</value>
+      <webElementGuid>e1dbbc73-d0c6-485f-b233-3f180169a42e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[contains(@class, 'trend-content')]//h6[contains(@class, 'theme')]</value>
+      <webElementGuid>a25d270e-0f88-43ac-bb37-1b94885bbb06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

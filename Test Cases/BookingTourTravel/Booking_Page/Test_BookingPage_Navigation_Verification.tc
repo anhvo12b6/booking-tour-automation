@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_BookingPage_Navigation_Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aade2bd5-e1d8-4e56-8b9d-e5a21ca9767c</testCaseGuid>
+</TestCaseEntity>

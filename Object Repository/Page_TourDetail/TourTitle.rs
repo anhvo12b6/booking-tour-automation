@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TourTitle</name>
+   <tag></tag>
+   <elementGuidId>844c0898-879b-4219-88d0-76e282b9f2c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/section/div/div/div[1]/div/div[1]/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/section/div/div/div[1]/div/div[1]/div/h2</value>
+      <webElementGuid>d417d8a2-e460-4f4a-87f0-0431859d23ac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
