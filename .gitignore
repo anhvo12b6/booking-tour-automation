@@ -1,0 +1,11 @@
+Reports/
+bin/
+Libs/
+.settings/
+.classpath
+.project
+build/
+*.log
+*.tmp
+*.bak
+.DS_Store
